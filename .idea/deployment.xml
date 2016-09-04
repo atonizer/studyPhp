@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="studyPhp">
+  <component name="PublishConfigData" serverName="testServer">
     <serverData>
-      <paths name="studyPhp">
+      <paths name="testServer">
         <serverdata>
           <mappings>
-            <mapping deploy="\" local="$PROJECT_DIR$" web="/studyPhp" />
+            <mapping local="$PROJECT_DIR$" web="studyphp" />
           </mappings>
         </serverdata>
       </paths>
